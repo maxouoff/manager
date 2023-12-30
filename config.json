@@ -1,0 +1,12 @@
+{
+    "token": "token du bot",
+    "color": "#5379e2",
+    "dev": "1071188330915561593",
+    "prefix": ";",
+    "owners": ["1071188330915561593"],
+    "footer": "Kirio Bots | By Maxkou#0666",
+    "mongoURL": "votre url mongo",
+    "support": "https://discord.gg/",
+    "channel": "identifiant du channel websocket",
+    "port": "port pour le websocket"
+}
